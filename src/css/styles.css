@@ -1,0 +1,18 @@
+body{
+    margin:0
+}
+header{
+    background: red;
+    text-align: center;
+}
+
+.logo {
+    color: white;
+    font-size: 40px;
+    font-family:'Pacifico';
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px 0;
+}
